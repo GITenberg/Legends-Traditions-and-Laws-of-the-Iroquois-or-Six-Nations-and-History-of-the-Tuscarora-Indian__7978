@@ -1,10 +1,16 @@
 _repo: Legends-Traditions-and-Laws-of-the-Iroquois-or-Six-Nations-and-History-of-the-Tuscarora-Indian__7978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Elias
     gutenberg_agent_id: '2609'
     url: http://www.gutenberg.org/2009/agents/2609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7978#Legends-Traditions-and-Laws-of-the-Iroquois-or-Six-Nations-and-History-of-the-Tuscarora-Indian_
 gutenberg_bookshelf:
 - Native America
 - Anthropology
